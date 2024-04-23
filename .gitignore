@@ -11,3 +11,4 @@ Train.py
 cnn/
 cnn_edited/
 docs/
+.venv/
